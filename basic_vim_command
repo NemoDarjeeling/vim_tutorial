@@ -1,0 +1,43 @@
+text object; change; delete; copy;
+one word; cw; dw; yw;
+three words back; 3cb; 3db; 3yb;
+one line; cc; dd; yy;
+to end of the line; C; D; y$;
+to beginning of line; c0; d0; y0;
+single character; r; x; yl;
+five characters; 5s; 5x; 5yl;
+
+movement; commands;
+left, down, up, right; h,j,k,l;
+to the first character of next line; +;
+to the first character of previous line; -;
+to the end of the word; e;
+forward by the word; w;
+backward by the word; b;
+to end of line; $;
+to beginning of line; 0;
+
+operations; commands;
+place text from register; p;
+start vim, open file if specified; vim file;
+save edits, quit file; ZZ;
+no savings of edits, quit file; :q!;
+
+text manupulation:
+insert text at current position; i;
+insert text at beginning of line; I;
+append text at current position; a;
+append text to the end of line; A;
+open new line below the cursor for new text; o;
+open new line above the cursor for new text; 0;
+put deleted text after cursor or below current line; p;
+put deleted text before cursor or above current line; P;
+replace the character under the cursor; r;
+delete the current character and enter insert mode; s;
+delete line and substitute text; S;
+delete the character under the cursor; x;
+delete the character in front of the cursor; X;
+join current and next line; J;
+repeat last action; -;
+undo last change; u;
+restore current line to original status;

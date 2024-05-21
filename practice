@@ -1,0 +1,25 @@
+I deleted the first line here and you don't know.
+This is the first line.
+This is a line changed using cc.
+This as the third line.
+I am going to move this a 4 left
+123456789101111111
+I have set the wrap margin as 10, but it doesn't seem to
+work. But how should I stop that?
+here i change_word_cw ok I changes STUFF with this with potential typos, and I am i deleted a word using dw here and you don't know to correct them.
+Here I will be slice and paste some stuff from above.
+Here is a correct typo.
+This is the forth line.
+Here I will be copying somthing from above.
+This as the third line.
+This as the third line.
+This as the third line.
+I opened a new line here.
+********************
+-------------------------: 25a-esc
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-:25a*-esc
+$$$$$$$$$$$$$$$
+With a screen eidtor you can scroll the page and move the cursor.(this line is jointed using shift j)
+Ok I used :set number to set numbers on the left, so .I deleted stuff from "everything" to the bottom where my cursor is and you don' know.
+I repeated /deleted using n to go down, and N to go up.
+I use fx and find next x in the line, Fx to find the previous x in the line.

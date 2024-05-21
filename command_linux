@@ -1,0 +1,20 @@
+pwd - to show the directory path you currently at
+cd home - move to the home directory
+cd .. - move to the parent directory
+ls - browse current directory
+mkdir - create a new directory under current directory
+command (for instance 'ls') > output_command.txt - you write the output of that command, say ls, into the new file
+cat [file] - show the content of the file
+cat [file1 file2] - show all content of all files together
+mv [file / directory] [directory] - move a file at current directory to a new directory inside current directory
+cp [file1] [file2] - copy content of file1 into file2
+mv [file1] [file2] - rename file1 to be file2
+rm - remove file or files
+rmdir - remove directory or directories
+rm -r - powerful and dangerous remove
+wc -l - line count
+wc -w - word count
+sort [file] - sort the file according to lines in aphabetic order
+ls -a - show all files and directories, including hidden ones
+
+And here is a link for command line prompts working on windows: https://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html
